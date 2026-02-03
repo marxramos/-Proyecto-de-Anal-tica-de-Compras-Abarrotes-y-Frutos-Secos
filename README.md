@@ -5,13 +5,13 @@ El objetivo es centralizar la información de facturas, estructurarla en un mode
 Actualmente el proyecto cuenta con 1 mes de datos reales, pero la arquitectura fue diseñada con enfoque escalable y modular.
 ## Arquitectura del sistema
 Arquitectura del sistema:
-1.- Captura de datos vía Telegram via imagen o PDF
-2.- Orquestación y automatización con Make
-3.- Normalización y estructuración usando ChatGPT
-4.- Almacenamiento en Google Sheets
-5.- Modelado analítico (tablas base y detalle)
-6.- Análisis y KPIs mediante QUERY y fórmulas tipo SQL
-7.- Visualización en dashboard
+- Captura de datos vía Telegram via imagen o PDF
+- Orquestación y automatización con Make
+- Normalización y estructuración usando ChatGPT
+- Almacenamiento en Google Sheets
+- Modelado analítico (tablas base y detalle)
+- Análisis y KPIs mediante QUERY y fórmulas tipo SQL
+- Visualización en dashboard
 ## Modelo de datos
 ### Tabla 1: factura (datos generales)
 Contiene información a nivel cabecera de cada factura.
