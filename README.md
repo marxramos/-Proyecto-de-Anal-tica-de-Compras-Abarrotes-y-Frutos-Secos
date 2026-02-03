@@ -1,8 +1,11 @@
 # Proyecto_de_Automatizacion_de_Facturas_y_analitica_de_datos
 ## Descripción general
-Este proyecto implementa un sistema automatizado de extracción, transformación y análisis de compras, orientado a un negocio de abarrotes y frutos secos. 
+Este proyecto implementa un sistema automatizado de extracción, transformación y análisis de compras, orientado a un negocio de abarrotes y frutos secos.
+
 El objetivo es centralizar la información de facturas, estructurarla en un modelo analítico y generar KPIs mensuales y comparativos, con un diseño preparado para escalar a mayor volumen de datos.
+
 Actualmente el proyecto cuenta con 1 mes de datos reales, pero la arquitectura fue diseñada con enfoque escalable y modular.
+
 ## Arquitectura del sistema
 Arquitectura del sistema:
 - Captura de datos vía Telegram via imagen o PDF
@@ -75,11 +78,15 @@ El sistema está diseñado para:
 - Conectarse a herramientas de BI (Looker / Power BI)
 ### Estado del proyecto
 En desarrollo
+
 Datos reales: 1 mes
+
 Objetivo del proyecto: consolidar historico de data  automatizar KPIs mensuales
 
 ### Autor
 Proyecto desarrollado por: Marx Vladimir Ramos Quispe
+
 Data Analyst / Automatizacion
+
 LinkedIn: www.linkedin.com/in/marxramosquispe
   
